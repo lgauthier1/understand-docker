@@ -1,6 +1,6 @@
 # Description
 
-The purpose of this file is to centralize the standard use cases of Dokcer encountered during my various projects
+The purpose of this repository is to centralize the standard use cases of Dokcer encountered during my various projects
 
 # UC1 - Legacy Dev' environement
 
